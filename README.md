@@ -57,5 +57,8 @@ and 42768
 
 the 74369
 
+**Screenshot:**
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nika-Klimen/Ex1_Big_Data_Lior_206363236_Nika_322997628/refs/heads/main/Screenshot%202025-11-27%20145645.png" width="600">
+</p>
